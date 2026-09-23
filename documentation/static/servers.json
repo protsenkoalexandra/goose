@@ -555,6 +555,7 @@
     "endorsed": true,
     "environmentVariables": []
   },
+  { "id": "paste-mcp", "name": "Paste", "description": "Search your Mac clipboard history and pinboards from Paste, and save results back", "command": "npx -y @pasteapp/mcp", "link": "https://github.com/pasteapp/paste-mcp", "installation_notes": "Install using npx. Requires macOS with Paste 6.6+ and MCP enabled in Settings > MCP & AI Tools.", "is_builtin": false, "endorsed": false, "environmentVariables": [] },
   {
     "id": "pngmeta",
     "name": "PNG Metadata",
